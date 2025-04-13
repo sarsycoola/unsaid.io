@@ -1,1 +1,1 @@
-module.exports = { reactStrictMode: true };// trigger redeploy
+module.exports = { reactStrictMode: true };
